@@ -24,10 +24,10 @@ int relay11 = 14;
 int relay12 = 27; 
 int relay13 = 26;
 
-const char *ssid = "CIAlab";
-const char *password = "81234567";
-const char* server_host = "47.113.229.47";
-const int server_port = 3007;
+const char *ssid = "";
+const char *password = "";
+const char* server_host = "";
+const int server_port = ;
 
 WiFiClient client;
 String response;
